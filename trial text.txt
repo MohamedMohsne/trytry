@@ -1,4 +1,4 @@
 trial text file
 change from the remote server
-change and try git pull
+change and try git pull (conflict to the master  branch).
 commit file to remote branch
