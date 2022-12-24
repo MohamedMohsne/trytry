@@ -2,3 +2,9 @@ trial text file
 change from the remote server
 change and try git pull (conflict to the master  branch).
 commit file to remote branch
+See clean command
+see git revert command
+Create patch
+See diff merge
+merge conflict
+cheerry pick from temp
